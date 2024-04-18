@@ -24,3 +24,5 @@ Stack trace:
 #3 /wordpress/wp-admin/admin-ajax.php(2): do_action('wp_ajax_impleco...')
 #4 {main}
   thrown in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/tooltips.php on line 218
+[18-Apr-2024 21:19:05 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[18-Apr-2024 21:19:05 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
